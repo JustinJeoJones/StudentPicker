@@ -2,6 +2,7 @@ body{
     text-align: center;
     background-color: #79D7D7;
     font-family: 'Coiny';
+    margin-top: 0px;
 }
 .top{
     font-size: 3em;
@@ -9,6 +10,9 @@ body{
     background-color: 2AAAAA;
     border-bottom-left-radius: 25px;
     border-bottom-right-radius: 25px;
+}
+h1{
+    margin-top: 0px;
 }
 #resultButton{
     background-color: #017979;
